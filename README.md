@@ -152,7 +152,16 @@ Contributed to a three-person team building an end-to-end plant disease detectio
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yazan0arar&bg_color=07111F&color=67E8F9&line=06B6D4&point=CFFAFE&area_color=0C4A6E&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/yazan0arar/yazan0arar/output/github-contribution-grid-snake-dark.svg" />
+
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/yazan0arar/yazan0arar/output/github-contribution-grid-snake.svg" />
+
+    <img alt="GitHub contribution snake animation"
+         src="https://raw.githubusercontent.com/yazan0arar/yazan0arar/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
