@@ -80,18 +80,6 @@ My engineering approach combines structured problem-solving, clean architecture,
 
 ---
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| Computer Vision | Applied | Image-based plant disease recognition and AI-assisted diagnosis workflows |
-| Deep Learning & CNNs | Applied | TensorFlow/Keras model integration and convolutional neural network concepts |
-| Transfer Learning | Project Experience | EfficientNet-B3 architecture used within the Doctor Plant classification pipeline |
-| AI Product Integration | Applied | Connecting model inference with a React client and ASP.NET Core service layer |
-| Data Processing | Working Knowledge | Preparing image inputs, handling predictions, and presenting actionable results |
-
----
-
 ## Featured Projects
 
 <details open>
@@ -108,7 +96,7 @@ An AI-enabled platform designed to help users identify likely plant diseases fro
 | **Performance** | EfficientNet-B3 inference pipeline; public benchmark figures have not been published |
 | **Security** | JWT-based authentication, structured API access, and Cloudinary-managed media |
 | **Impact** | Brings plant image analysis, disease guidance, and weather context into one accessible workflow |
-| **Repository** | [View Source](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DOCTOR_PLANT_REPOSITORY) |
+| **Repository** | [View Source](https://github.com/yazan0arar/DrPlant---Plant-Disease-Detection-System-) |
 
 The system combines a typed React interface with an ASP.NET Core backend and a Python deep-learning workflow. It also integrates Cloudinary for media handling, Open-Meteo for weather context, EmailJS for communication flows, and MySQL for relational persistence. The project reflects end-to-end product engineering across UI, APIs, authentication, data, and AI integration.
 
@@ -140,41 +128,11 @@ Contributed to a three-person team building an end-to-end plant disease detectio
 
 ---
 
-## Achievements
-
-| Recognition | Details |
-| :---: | :---: |
-| **B.Sc. in Computer Science** | Palestine Technical University - Kadoorie, 2021-2026 |
-| **Very Good Academic Standing** | GPA: 79.1/100 |
-| **AI Graduation Project** | Co-developed Doctor Plant, a full-stack plant disease detection platform |
-
----
-
-## Certifications
-
-### AWS
-
-[![AWS](https://img.shields.io/badge/AWS-Verified%20credential%20not%20provided-312E81?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/)
-
-### Oracle
-
-[![Oracle](https://img.shields.io/badge/Oracle-Verified%20credential%20not%20provided-4F46E5?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/certification)
-
-### NPTEL
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Verified%20credential%20not%20provided-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)](https://nptel.ac.in/)
-
-### Cisco
-
-[![Cisco](https://img.shields.io/badge/Cisco-Verified%20credential%20not%20provided-7C3AED?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
-
----
-
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yazan0arar&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C3AED" alt="Yazan Arar GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan0arar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yazan0arar&show_icons=true&include_all_commits=true&hide_border=true&bg_color=07111F&title_color=67E8F9&text_color=E2F6FF&icon_color=06B6D4" alt="Yazan Arar GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan0arar&layout=compact&langs_count=8&hide_border=true&bg_color=07111F&title_color=67E8F9&text_color=E2F6FF" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -194,7 +152,7 @@ Contributed to a three-person team building an end-to-end plant disease detectio
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yazan0arar&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=312E81&hide_border=true" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yazan0arar&bg_color=07111F&color=67E8F9&line=06B6D4&point=CFFAFE&area_color=0C4A6E&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
