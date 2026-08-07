@@ -24,8 +24,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yazan0arar&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=4F46E5&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&label=Stars&style=flat-square&color=6D28D9&logo=github" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/yazan0arar?label=Followers&style=flat-square&color=4F46E5&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/yazan0arar?affiliations=OWNER&label=Stars&style=flat-square&color=6D28D9&logo=github" alt="GitHub stars" />
 </p>
 
 ---
