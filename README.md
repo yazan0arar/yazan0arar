@@ -1,31 +1,31 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0B0D,35:3B2F0B,70:713F12,100:B45309&text=Yazan%20Arar&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full-Stack%20Development&descAlignY=59&descSize=17&animation=fadeIn" alt="Yazan Arar header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111F,35:0C4A6E,70:0369A1,100:06B6D4&text=Yazan%20Arar&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full-Stack%20Development&descAlignY=59&descSize=17&animation=fadeIn" alt="Yazan Arar header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Computer+Science+Graduate;Full-Stack+Software+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Useful%2C+Secure%2C+Data-Driven+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=Computer+Science+Graduate;Full-Stack+Software+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Useful%2C+Secure%2C+Data-Driven+Products" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="B.Sc. Computer Science" />
-  <img src="https://img.shields.io/badge/PTUK-2021--2026-4F46E5?style=flat-square&logo=google-scholar&logoColor=white" alt="Palestine Technical University - Kadoorie" />
-  <img src="https://img.shields.io/badge/GPA-79.1%2F100-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white" alt="GPA 79.1 out of 100" />
-  <img src="https://img.shields.io/badge/Tulkarm%2C%20Palestine-Location-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Tulkarm, Palestine" />
+  <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-0369A1?style=flat-square&logo=academia&logoColor=white" alt="B.Sc. Computer Science" />
+  <img src="https://img.shields.io/badge/PTUK-2021--2026-0284C7?style=flat-square&logo=google-scholar&logoColor=white" alt="Palestine Technical University - Kadoorie" />
+  <img src="https://img.shields.io/badge/GPA-79.1%2F100-06B6D4?style=flat-square&logo=graduation-cap&logoColor=white" alt="GPA 79.1 out of 100" />
+  <img src="https://img.shields.io/badge/Tulkarm%2C%20Palestine-Location-0C4A6E?style=flat-square&logo=googlemaps&logoColor=white" alt="Tulkarm, Palestine" />
 </p>
 
 <p align="center">
-  <a href="https://yazanarar59.getportify.com/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/yazan-arar-663a52367/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://yazanarar32@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/yazan0arar"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://yazanarar59.getportify.com/"><img src="https://img.shields.io/badge/Portfolio-0369A1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yazan-arar-663a52367/"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yazanarar32@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/yazan0arar"><img src="https://img.shields.io/badge/GitHub-0C4A6E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yazan0arar&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/yazan0arar?label=Followers&style=flat-square&color=4F46E5&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/yazan0arar?affiliations=OWNER&label=Stars&style=flat-square&color=6D28D9&logo=github" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=yazan0arar&label=Profile%20Views&color=0369A1&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yazan0arar?label=Followers&style=flat-square&color=0284C7&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/yazan0arar?affiliations=OWNER&label=Stars&style=flat-square&color=06B6D4&logo=github" alt="GitHub stars" />
 </p>
 
 ---
