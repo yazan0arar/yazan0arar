@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,35:312E81,70:6D28D9,100:4F46E5&text=Yazan%20Arar&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full-Stack%20Development&descAlignY=59&descSize=17&animation=fadeIn" alt="Yazan Arar header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111F,35:0C4A6E,70:0369A1,100:06B6D4&text=Yazan%20Arar&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full-Stack%20Development&descAlignY=59&descSize=17&animation=fadeIn" alt="Yazan Arar header" />
 </p>
 
 <p align="center">
