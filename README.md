@@ -244,5 +244,5 @@ open_to:
 <p align="center"><strong>Engineering useful products at the intersection of software and intelligent systems.</strong></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:6D28D9,100:0D1117" alt="Footer banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:0369A1,100:07111F" alt="Footer banner" />
 </p>
