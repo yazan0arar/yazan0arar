@@ -167,8 +167,6 @@ Contributed to a three-person team building an end-to-end plant disease detectio
   </picture>
 </p>
 
----
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:0369A1,100:07111F" alt="Footer banner" />
 </p>
