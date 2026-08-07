@@ -169,42 +169,6 @@ Contributed to a three-person team building an end-to-end plant disease detectio
 
 ---
 
-## Current Focus
-
-```yaml
-learning:
-  - Deep learning and CNN optimization
-  - Scalable backend and API architecture
-
-building:
-  - AI-enabled full-stack products
-  - Secure, maintainable web applications
-
-exploring:
-  - Computer vision for practical problem-solving
-  - Cloud-ready software engineering workflows
-
-open_to:
-  - Software development opportunities
-  - AI/ML and full-stack collaboration
-  - Open-source contributions
-```
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:yazanarar32@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/yazan-arar-663a52367/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/yazan0arar"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://yazanarar59.getportify.com/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-<p align="center"><strong>Engineering useful products at the intersection of software and intelligent systems.</strong></p>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:0369A1,100:07111F" alt="Footer banner" />
 </p>
