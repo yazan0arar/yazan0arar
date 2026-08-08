@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111F,35:0C4A6E,70:0369A1,100:06B6D4&text=Yazan%20Arar&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full-Stack%20Development&descAlignY=59&descSize=17&animation=fadeIn" alt="Yazan Arar header" />
 </p>
 
@@ -168,57 +168,5 @@ Contributed to a three-person team building an end-to-end plant disease detectio
 </p>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:0369A1,100:07111F" alt="Footer banner" />
-</p> -->
-<div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Yazan Arar - Front-End Web Developer" />
+</p>
 
-  <br/>
-
-  <a href="https://github.com/yazan0arar">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/yazan-arar-663a52367/">
-    <img src="https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yazanarar32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br/>
-
-About
-
-Front-End Web Developer and Computer Science graduate focused on building responsive, clean, and user-friendly web experiences.
-
-Web Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode&theme=dark" alt="Web development skills" />
-  <br/>
-  <sub>Also experienced with ASP.NET Core, MySQL, PHP, and Python.</sub>
-</div>
-
-Featured Build
-
-🌿 Doctor Plant
-
-An AI-powered plant disease detection platform with a responsive React and TypeScript interface, connected to an ASP.NET Core API.
-
-React · TypeScript · Tailwind CSS · ASP.NET Core · MySQL
-
-Contribution Motion
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yazan0arar/yazan0arar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yazan0arar/yazan0arar/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/yazan0arar/yazan0arar/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Code with purpose · Design with clarity</sub>
-</div>
