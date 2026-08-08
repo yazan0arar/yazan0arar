@@ -17,6 +17,12 @@
 
 <br>
 
+### <code>yazan0arar@github ~ $ ./snake.sh</code>
+
+<img src="./contribution-snake.svg" width="860" alt="Yazan Arar animated contribution snake" />
+
+<br><br>
+
 ### <code>yazan0arar@github ~ $ ./connect.sh</code>
 
 <code><a href="https://github.com/yazan0arar">GitHub</a></code>

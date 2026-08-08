@@ -12,6 +12,7 @@
    - `yazan-ascii.svg`
    - `info-card.svg`
    - `contrib-heatmap.svg`
+   - `contribution-snake.svg`
    - مجلد `scripts`
    - مجلد `data`
    - مجلد `.github`
@@ -41,6 +42,7 @@
 - معلومات البطاقة: `scripts/make_info_card.py`
 - ألوان وحركة الصورة: `scripts/make_ascii_svg.py`
 - ألوان وحركة المساهمات: `scripts/render_heatmap_svg.py`
+- حركة الحية: `scripts/render_snake_svg.py`
 - روابط التواصل: `README.md`
 
 بعد تعديل بطاقة المعلومات شغّل:

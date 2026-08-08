@@ -30,6 +30,10 @@
   <text x="132" y="84" class="title">Yazan Arar</text>
   <text x="132" y="109" class="handle">yazan0arar</text>
   <rect x="38" y="143" width="440" height="2" rx="1" fill="url(#accent)"/>
+  <rect x="38" y="141" width="56" height="6" rx="3" fill="#67E8F9" opacity="0.16">
+    <animate attributeName="x" values="38;422;38" dur="5.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.05;0.35;0.05" dur="5.4s" repeatCount="indefinite"/>
+  </rect>
 
   <g class="line" style="animation-delay:0.60s"><text x="40" y="184" class="key">role</text><text x="151" y="184" class="value">Front-End Web Developer</text></g><g class="line" style="animation-delay:0.76s"><text x="40" y="218" class="key">focus</text><text x="151" y="218" class="value">Modern responsive web UI</text></g><g class="line" style="animation-delay:0.92s"><text x="40" y="252" class="key">stack</text><text x="151" y="252" class="value">React · TypeScript · Tailwind</text></g><g class="line" style="animation-delay:1.08s"><text x="40" y="286" class="key">also</text><text x="151" y="286" class="value">ASP.NET Core · MySQL · Python</text></g><g class="line" style="animation-delay:1.24s"><text x="40" y="320" class="key">project</text><text x="151" y="320" class="value">Doctor Plant — AI web platform</text></g><g class="line" style="animation-delay:1.40s"><text x="40" y="354" class="key">education</text><text x="151" y="354" class="value">B.Sc. Computer Science</text></g><g class="line" style="animation-delay:1.56s"><text x="40" y="388" class="key">location</text><text x="151" y="388" class="value">Palestine</text></g><g class="line" style="animation-delay:1.72s"><text x="40" y="422" class="key">status</text><text x="151" y="422" class="value">Open to web opportunities</text></g>
 
@@ -37,4 +41,8 @@
     <text class="handle">$ build --for-the-web</text>
     <rect class="cursor" x="177" y="-11" width="8" height="14" rx="1" fill="#22D3EE"/>
   </g>
+  <circle cx="110" cy="93" r="39" fill="none" stroke="#22D3EE" opacity="0.12">
+    <animate attributeName="r" values="38;45;38" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.20;0;0.20" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
 </svg>
