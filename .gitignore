@@ -1,0 +1,6 @@
+# Keep source portraits and local previews off the public profile repository.
+source-photo.*
+source-prepped.png
+preview-*
+__pycache__/
+*.pyc
